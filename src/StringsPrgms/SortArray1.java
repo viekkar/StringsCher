@@ -10,7 +10,6 @@ public class SortArray1 {
 		Arrays.sort(exmp);
 		System.out.println("after sorting"+Arrays.toString(exmp));
 	
-		
 
 	}
 
